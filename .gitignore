@@ -1,0 +1,4 @@
+*.[oa]
+#Ignora los archivos acabados en '.o' y '.a'
+*~
+#Ignora los archivos acabados en '~'
