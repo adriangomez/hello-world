@@ -13,9 +13,10 @@ Vamos a remodelar y probar el estilo:
 # Título 1
 
 Algo de información.
-¿Respeta los saltos de carro?
+¿Respeta los saltos de carro? NO
 
 Línea en blanco extra: ¿nuevo párrafo?
 
 ## Subtítulo 1
-Escrito a continuación
+Escrito a continuación. Probemos con newlines de C.\n
+¿Avanzamos algo?
