@@ -30,15 +30,10 @@ many-electron problem.
 
 ## Directories
 
-doc => papers, notes, etc.
-
-results => preliminary results.
-
-src => sources of the code written for the TFM
-
-src-tad => sources of the code written for the TAD
-
-TAD => TAD document (tex, figures, pdf, etc.)
-
-TFM => TFM document (tex, figures, pdf, etc.)
+<b>doc</b> => papers, notes, etc.<br />
+<b>results</b> => preliminary results.<br />
+<b>src</b> => sources of the code written for the TFM<br />
+<b>src-tad</b> => sources of the code written for the TAD<br />
+<b>TAD</b> => TAD document (tex, figures, pdf, etc.)<br />
+<b>TFM</b> => TFM document (tex, figures, pdf, etc.)
 
